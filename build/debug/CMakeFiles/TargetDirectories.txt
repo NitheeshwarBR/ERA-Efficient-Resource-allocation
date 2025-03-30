@@ -1,3 +1,0 @@
-/home/NrpX/ERA-Efficient-Resource-allocation/build/debug/CMakeFiles/optimizer.dir
-/home/NrpX/ERA-Efficient-Resource-allocation/build/debug/CMakeFiles/edit_cache.dir
-/home/NrpX/ERA-Efficient-Resource-allocation/build/debug/CMakeFiles/rebuild_cache.dir
