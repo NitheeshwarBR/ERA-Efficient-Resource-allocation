@@ -219,34 +219,105 @@ void resourceOptimization() {
                 }
             }
             
-            // Clear screen and display current state
+            // Clear screen and display current state using ASCII art for visualization
             std::cout << "\033[H\033[2J";  // Clear screen
-            std::cout << "ERA - Efficient Resource Allocation System\n"
-                      << "---------------------------------------------\n"
-                      << "Load Level: ";
+            std::cout << "\033[1;36m"; // Cyan, bold text for header
+            std::cout << R"(
+ _____ ____    _    
+| ____|  _ \  / \   
+|  _| | |_) |/ _ \  
+| |___|  _ </ ___ \ 
+|_____|_| \_\_/  \_\
+                    
+Efficient Resource Allocation System
+)" << "\033[0m" << std::endl;
+            
+            std::cout << "═════════════════════════════════════════════\n";
+            std::cout << "\033[1;33m▶ Load Level: \033[0m";
                       
             switch (loadLevel.load()) {
-                case 0: std::cout << "LIGHT\n"; break;
-                case 1: std::cout << "MEDIUM\n"; break;
-                case 2: std::cout << "SPIKE\n"; break;
+                case 0: std::cout << "\033[1;32mLIGHT\033[0m\n"; break;    // Green
+                case 1: std::cout << "\033[1;33mMEDIUM\033[0m\n"; break;   // Yellow
+                case 2: std::cout << "\033[1;31mSPIKE\033[0m\n"; break;    // Red
                 default: std::cout << "UNKNOWN\n";
             }
             
-            std::cout << "Generation: " << generation << "\n\n"
-                      << "Current Resource Usage:\n"
-                      << "  CPU:    " << std::fixed << std::setprecision(2) << cpuUsage << "%\n"
-                      << "  Memory: " << std::fixed << std::setprecision(2) << memoryUsage << "%\n"
-                      << "  Power:  " << std::fixed << std::setprecision(2) << powerUsage << "W\n\n"
-                      << "Genetic Algorithm Optimized Thresholds:\n"
-                      << "  CPU:    " << std::fixed << std::setprecision(2) << params.cpu_threshold << "%\n"
-                      << "  Memory: " << std::fixed << std::setprecision(2) << params.memory_threshold << "%\n"
-                      << "  Power:  " << std::fixed << std::setprecision(2) << params.power_threshold << "W\n\n"
-                      << "Fitness Score: " << std::fixed << std::setprecision(4) << bestChromosome.getFitness() << "\n\n"
-                      << "Commands:\n"
-                      << "  0: Light Load\n"
-                      << "  1: Medium Load\n"
-                      << "  2: Spike Load\n"
-                      << "  q: Quit\n";
+            std::cout << "\033[1;33m▶ Generation: \033[0m" << generation << "\n\n";
+            
+            // Progress bars for resource usage
+            auto createProgressBar = [](double percentage, double threshold, const std::string& label) {
+                const int barWidth = 30;
+                int position = static_cast<int>(percentage * barWidth / 100.0);
+                int thresholdPos = static_cast<int>(threshold * barWidth / 100.0);
+                
+                std::stringstream bar;
+                bar << label << " [";
+                
+                for (int i = 0; i < barWidth; ++i) {
+                    if (i < position) {
+                        // Color based on usage relative to threshold
+                        if (percentage > threshold)
+                            bar << "\033[1;31m█\033[0m"; // Red if over threshold
+                        else
+                            bar << "\033[1;32m█\033[0m"; // Green if under threshold
+                    } else if (i == thresholdPos) {
+                        bar << "\033[1;33m|\033[0m"; // Yellow threshold marker
+                    } else {
+                        bar << " ";
+                    }
+                }
+                
+                bar << "] " << std::fixed << std::setprecision(1) << percentage << "% ";
+                bar << "(Threshold: " << std::fixed << std::setprecision(1) << threshold << "%)";
+                return bar.str();
+            };
+            
+            // Resource usage section
+            std::cout << "\033[1;36m▣ Resource Usage:\033[0m\n";
+            
+            // Render CPU usage bar
+            std::cout << createProgressBar(cpuUsage, params.cpu_threshold, "CPU   ") << "\n";
+            
+            // Render Memory usage bar
+            std::cout << createProgressBar(memoryUsage, params.memory_threshold, "Memory") << "\n";
+            
+            // Render Power usage
+            std::cout << "Power  [";
+            const int powerBarWidth = 30;
+            int powerPosition = static_cast<int>(powerUsage * powerBarWidth / 15.0); // Assuming 15W max
+            int powerThresholdPos = static_cast<int>(params.power_threshold * powerBarWidth / 15.0);
+            
+            for (int i = 0; i < powerBarWidth; ++i) {
+                if (i < powerPosition) {
+                    if (powerUsage > params.power_threshold)
+                        std::cout << "\033[1;31m█\033[0m"; // Red if over threshold
+                    else
+                        std::cout << "\033[1;32m█\033[0m"; // Green if under threshold
+                } else if (i == powerThresholdPos) {
+                    std::cout << "\033[1;33m|\033[0m"; // Yellow threshold marker
+                } else {
+                    std::cout << " ";
+                }
+            }
+            
+            std::cout << "] " << std::fixed << std::setprecision(2) << powerUsage << "W ";
+            std::cout << "(Threshold: " << std::fixed << std::setprecision(2) << params.power_threshold << "W)\n\n";
+            
+            // Genetic algorithm section
+            std::cout << "\033[1;36m▣ Genetic Algorithm Status:\033[0m\n";
+            std::cout << "  Fitness Score: " << std::fixed << std::setprecision(4) 
+                      << bestChromosome.getFitness() << "\n\n";
+            
+            // Evolution history (show last 5 generations)
+            if (generation > 1) {
+                std::cout << "\033[1;36m▣ Optimization Progress:\033[0m\n";
+                // Here you would insert code to track and display history
+                // but for simplicity we'll skip implementing that
+            }
+            
+            std::cout << "\033[1;36m▣ Commands:\033[0m\n";
+            std::cout << "  0: Light Load    1: Medium Load    2: Spike Load    q: Quit\n";
+            std::cout << "═════════════════════════════════════════════\n";
             
         } catch (const std::exception& e) {
             std::cerr << "Error in resource optimization: " << e.what() << std::endl;

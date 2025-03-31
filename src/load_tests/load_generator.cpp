@@ -3,17 +3,25 @@
 #include <vector>
 #include <atomic>
 #include <chrono>
-#include <cpr/cpr.h>
 #include <string>
 #include <sstream>
 #include <cmath>
 #include <malloc.h>
-#include <cstring>  // Add this for memset
+#include <cstring>
 #include <mutex>
+#include <csignal>
+
+
+//cpu 
+// thread : 1 
+// memory:50mb
+// interval : 500ms
+
+
 
 // Constants for load levels
 constexpr int LIGHT_LOAD_CPU_THREADS = 1;
-constexpr int MEDIUM_LOAD_CPU_THREADS = 2;
+constexpr int MEDIUM_LOAD_CPU_THREADS = 2; 
 constexpr int SPIKE_LOAD_CPU_THREADS = 4;
 
 constexpr size_t LIGHT_LOAD_MEMORY_MB = 50;
@@ -31,22 +39,10 @@ std::vector<std::thread> cpuThreads;
 std::vector<char*> memoryBlocks;
 std::mutex memoryMutex;
 
-// Simple JSON parser for our specific use case
-int extractLoadLevel(const std::string& jsonResponse) {
-    // Find the load_level value in the JSON
-    size_t pos = jsonResponse.find("\"load_level\":");
-    if (pos != std::string::npos) {
-        pos += 12; // Move past "load_level":
-        // Skip whitespace
-        while (pos < jsonResponse.length() && std::isspace(jsonResponse[pos])) {
-            pos++;
-        }
-        // Read the integer
-        if (pos < jsonResponse.length() && std::isdigit(jsonResponse[pos])) {
-            return jsonResponse[pos] - '0';
-        }
-    }
-    return 0; // Default to light load
+// Signal handler for graceful termination
+void signalHandler(int signal) {
+    std::cout << "Received signal " << signal << ", shutting down..." << std::endl;
+    running = false;
 }
 
 // CPU intensive operation
@@ -109,59 +105,142 @@ void manageMemory() {
     }
 }
 
-// Load level monitoring
-void monitorLoadLevel() {
+// User input thread to change load levels
+void handleUserInput() {
+    std::cout << "\033[1;36m"; // Cyan, bold text for header
+    std::cout << R"(
+ _____ ____    _    
+| ____|  _ \  / \   
+|  _| | |_) |/ _ \  
+| |___|  _ </ ___ \ 
+|_____|_| \_\_/  \_\
+                    
+Load Generator
+)" << "\033[0m" << std::endl;
+    
+    std::cout << "Press 0 for light load, 1 for medium load, 2 for spike load, q to quit" << std::endl;
+    
     while (running) {
-        try {
-            // Send GET request to API to check load level
-            cpr::Response r = cpr::Get(cpr::Url{"http://localhost:8080/api/resources"});
-            
-            if (r.status_code == 200) {
-                int newLoadLevel = extractLoadLevel(r.text);
-                if (newLoadLevel != currentLoadLevel) {
-                    std::cout << "Changing load level from " 
-                              << currentLoadLevel.load() << " to " 
-                              << newLoadLevel << std::endl;
-                    currentLoadLevel.store(newLoadLevel);
-                    
-                    // Adjust CPU threads based on new load level
-                    std::vector<std::thread> newThreads;
-                    int targetThreads;
-                    
-                    switch (newLoadLevel) {
-                        case 0: targetThreads = LIGHT_LOAD_CPU_THREADS; break;
-                        case 1: targetThreads = MEDIUM_LOAD_CPU_THREADS; break;
-                        case 2: targetThreads = SPIKE_LOAD_CPU_THREADS; break;
-                        default: targetThreads = LIGHT_LOAD_CPU_THREADS;
-                    }
-                    
-                    // Kill existing threads if needed
-                    if (cpuThreads.size() > targetThreads) {
-                        for (auto& thread : cpuThreads) {
-                            if (thread.joinable()) {
-                                thread.join();
-                            }
+        char input;
+        std::cin >> input;
+        
+        switch (input) {
+            case '0':
+                currentLoadLevel.store(0);
+                std::cout << "\033[1;32mSwitched to LIGHT load\033[0m" << std::endl;
+                
+                // Update thread count if needed
+                while (cpuThreads.size() > LIGHT_LOAD_CPU_THREADS) {
+                    std::cout << "Reducing CPU threads from " << cpuThreads.size() 
+                              << " to " << LIGHT_LOAD_CPU_THREADS << std::endl;
+                    // We need to stop all threads and create new ones
+                    for (auto& thread : cpuThreads) {
+                        if (thread.joinable()) {
+                            thread.join();
                         }
-                        cpuThreads.clear();
                     }
-                    
-                    // Start new CPU threads
-                    while (cpuThreads.size() < targetThreads) {
+                    cpuThreads.clear();
+                    for (int i = 0; i < LIGHT_LOAD_CPU_THREADS; i++) {
+                        cpuThreads.emplace_back(cpuIntensiveTask);
+                    }
+                    break;
+                }
+                
+                // Add threads if needed
+                while (cpuThreads.size() < LIGHT_LOAD_CPU_THREADS) {
+                    std::cout << "Adding CPU threads to reach " << LIGHT_LOAD_CPU_THREADS << std::endl;
+                    cpuThreads.emplace_back(cpuIntensiveTask);
+                }
+                break;
+                
+            case '1':
+                currentLoadLevel.store(1);
+                std::cout << "\033[1;33mSwitched to MEDIUM load\033[0m" << std::endl;
+                
+                // Update thread count
+                if (cpuThreads.size() > MEDIUM_LOAD_CPU_THREADS) {
+                    std::cout << "Reducing CPU threads from " << cpuThreads.size() 
+                              << " to " << MEDIUM_LOAD_CPU_THREADS << std::endl;
+                    // We need to stop all threads and create new ones
+                    for (auto& thread : cpuThreads) {
+                        if (thread.joinable()) {
+                            thread.join();
+                        }
+                    }
+                    cpuThreads.clear();
+                    for (int i = 0; i < MEDIUM_LOAD_CPU_THREADS; i++) {
                         cpuThreads.emplace_back(cpuIntensiveTask);
                     }
                 }
-            } else {
-                std::cerr << "Error getting load level: " << r.status_code << std::endl;
-            }
-        } catch (const std::exception& e) {
-            std::cerr << "Network error: " << e.what() << std::endl;
+                
+                // Add threads if needed
+                while (cpuThreads.size() < MEDIUM_LOAD_CPU_THREADS) {
+                    std::cout << "Adding CPU threads to reach " << MEDIUM_LOAD_CPU_THREADS << std::endl;
+                    cpuThreads.emplace_back(cpuIntensiveTask);
+                }
+                break;
+                
+            case '2':
+                currentLoadLevel.store(2);
+                std::cout << "\033[1;31mSwitched to SPIKE load\033[0m" << std::endl;
+                
+                // Update thread count
+                if (cpuThreads.size() > SPIKE_LOAD_CPU_THREADS) {
+                    std::cout << "Reducing CPU threads from " << cpuThreads.size() 
+                              << " to " << SPIKE_LOAD_CPU_THREADS << std::endl;
+                    // We need to stop all threads and create new ones
+                    for (auto& thread : cpuThreads) {
+                        if (thread.joinable()) {
+                            thread.join();
+                        }
+                    }
+                    cpuThreads.clear();
+                    for (int i = 0; i < SPIKE_LOAD_CPU_THREADS; i++) {
+                        cpuThreads.emplace_back(cpuIntensiveTask);
+                    }
+                }
+                
+                // Add threads if needed
+                while (cpuThreads.size() < SPIKE_LOAD_CPU_THREADS) {
+                    std::cout << "Adding CPU threads to reach " << SPIKE_LOAD_CPU_THREADS << std::endl;
+                    cpuThreads.emplace_back(cpuIntensiveTask);
+                }
+                break;
+                
+            case 'q':
+            case 'Q':
+                running = false;
+                std::cout << "Shutting down..." << std::endl;
+                break;
+                
+            default:
+                std::cout << "Invalid input. Use 0, 1, 2 for load levels or q to quit" << std::endl;
         }
         
-        std::this_thread::sleep_for(std::chrono::seconds(1));
+        // Display current status
+        std::cout << "\nCurrent Status:\n";
+        std::cout << "  Load Level: ";
+        switch (currentLoadLevel.load()) {
+            case 0: std::cout << "\033[1;32mLIGHT\033[0m"; break;
+            case 1: std::cout << "\033[1;33mMEDIUM\033[0m"; break;
+            case 2: std::cout << "\033[1;31mSPIKE\033[0m"; break;
+        }
+        std::cout << "\n  Active CPU Threads: " << cpuThreads.size() << "\n";
+        std::cout << "  Memory Target: ";
+        switch (currentLoadLevel.load()) {
+            case 0: std::cout << LIGHT_LOAD_MEMORY_MB; break;
+            case 1: std::cout << MEDIUM_LOAD_MEMORY_MB; break;
+            case 2: std::cout << SPIKE_LOAD_MEMORY_MB; break;
+        }
+        std::cout << " MB\n\n";
     }
 }
 
 int main() {
+    // Register signal handler for graceful termination
+    std::signal(SIGINT, signalHandler);
+    std::signal(SIGTERM, signalHandler);
+    
     std::cout << "Starting load generator..." << std::endl;
     
     // Start initial CPU threads (light load)
@@ -172,13 +251,11 @@ int main() {
     // Start memory management thread
     std::thread memoryThread(manageMemory);
     
-    // Start load level monitor
-    std::thread monitorThread(monitorLoadLevel);
-    
-    std::cout << "Load generator running. Press Enter to stop." << std::endl;
-    std::cin.get();
+    // Handle user input for load changes
+    handleUserInput();
     
     // Clean up
+    std::cout << "Shutting down load generator..." << std::endl;
     running = false;
     
     for (auto& thread : cpuThreads) {
@@ -189,10 +266,6 @@ int main() {
     
     if (memoryThread.joinable()) {
         memoryThread.join();
-    }
-    
-    if (monitorThread.joinable()) {
-        monitorThread.join();
     }
     
     // Free memory

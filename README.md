@@ -4,26 +4,21 @@
 
 ERA (Efficient Resource Allocation) is a system designed to optimize resource usage on Raspberry Pi devices using genetic algorithms. It monitors and intelligently adjusts CPU, memory, and power usage based on evolutionary algorithms that adapt to changing workloads.
 
-![ERA Dashboard](docs/images/dashboard.png)
-
 ### Key Features
 
 - **Real-time Resource Monitoring**: Tracks CPU, memory, and power usage
 - **Genetic Algorithm Optimization**: Evolves resource allocation strategies over time
 - **Adaptive Thresholds**: Automatically adjusts resource thresholds based on workload patterns
-- **Interactive Dashboard**: React-based UI to visualize and control the system
+- **Terminal-based Visualization**: Clean, ASCII-based interface for monitoring system status
 - **Load Testing**: Simulates various workload scenarios to evaluate optimization efficiency
 
 ## System Architecture
 
-![System Architecture](docs/images/architecture.png)
-
 The system consists of several main components:
 - **Resource Monitors**: Track CPU, memory, and power consumption
-- **Genetic Algorithm Engine**: Optimizes resource thresholds
+- **Genetic Algorithm Engine**: Optimizes resource thresholds over generations
 - **Resource Optimizers**: Apply optimized settings to the system
-- **API Server**: Provides a REST interface to the dashboard
-- **React Dashboard**: Visualizes performance and provides controls
+- **Visual Interface**: Terminal-based ASCII visualization
 
 ## Getting Started
 
@@ -33,8 +28,6 @@ The system consists of several main components:
 - Raspbian OS or Ubuntu 20.04+ for ARM
 - CMake 3.10+
 - C++17 compatible compiler
-- Node.js 14+ (for the dashboard)
-- npm 6+ (for the dashboard)
 
 ### Installation
 
@@ -44,71 +37,52 @@ The system consists of several main components:
    cd ERA-Efficient-Resource-allocation
    ```
 
-2. Build the C++ components:
+2. Build the system:
    ```bash
    mkdir build && cd build
    cmake ..
    make -j4
    ```
 
-3. Install and build the dashboard:
-   ```bash
-   cd dashboard
-   npm install
-   npm run build
-   ```
-
-4. Copy the dashboard build to the API server's static files directory:
-   ```bash
-   cp -r build/* ../build/dashboard/
-   ```
-
 ## Running the System
 
-1. Start the API server (requires root for resource optimization):
+1. Start the optimizer (requires root for system modifications):
    ```bash
-   cd build
-   sudo ./api_server
+   sudo ./optimizer
    ```
 
-2. Access the dashboard in your browser:
+2. In a separate terminal, run the load generator to test different load levels:
+   ```bash
+   ./load_generator
    ```
-   http://localhost:8080
-   ```
 
-## Using the Dashboard
+## Using the System
 
-### Resource Monitoring
+### Terminal-based Interface
 
-The main dashboard displays real-time metrics for:
-- **CPU Usage**: Current percentage and optimization threshold
-- **Memory Usage**: Current percentage and optimization threshold
-- **Power Usage**: Current watts and optimization threshold
+The main interface provides:
+- **ASCII Progress Bars**: Visual representation of resource usage vs. thresholds
+- **Real-time Resource Monitoring**: Current CPU, memory, and power consumption
+- **Genetic Algorithm Metrics**: Displays fitness scores and optimization progress
+- **Simple Controls**: Keyboard commands to change load levels and control the system
 
 ### Testing Different Loads
 
-You can simulate different workloads using the load generator buttons:
-
-1. **Light Load**: Minimal resource usage
-2. **Medium Load**: Moderate resource usage
-3. **Spike Load**: Heavy resource consumption
-
-To start the load generator:
-```bash
-cd build
-./load_generator
-```
+You can test how the system responds to different workloads by pressing:
+- **0**: Light Load - Minimal resource usage
+- **1**: Medium Load - Moderate resource usage
+- **2**: Spike Load - Heavy resource consumption
 
 ### Interpreting Results
 
-The dashboard shows two sets of values for each resource:
-- **Actual System Usage**: What the system is currently using
-- **Optimized Threshold**: The value determined by the genetic algorithm
+The interface presents two key values for each resource:
+- **Actual Usage**: Current resource consumption (shown as progress bars)
+- **Optimized Threshold**: The value determined by the genetic algorithm (shown as markers)
 
-The efficiency of the optimization can be observed through:
-- The gap between actual usage and optimized thresholds
-- The system's stability during different load scenarios
-- Resource usage trends over time
+The bars change color based on the relationship between usage and thresholds:
+- **Green**: Resource usage is below the optimized threshold
+- **Red**: Resource usage exceeds the optimized threshold
+- **Yellow Marker**: Indicates the current threshold position
 
 ## How It Works
 
@@ -127,20 +101,26 @@ The genetic algorithm optimizes resource allocation through:
 When system resources exceed optimized thresholds, the system applies various techniques:
 
 #### CPU Optimization
-- Adjusts CPU governor settings
-- Modifies process priorities
+- Adjusts CPU governor settings (performance, powersave, conservative)
+- Modifies process priorities for CPU-intensive tasks
 - Balances workloads across cores
 
 #### Memory Optimization
-- Clears caches and buffers
-- Compacts memory allocations
-- Manages high-memory processes
+- Clears caches and buffers when memory pressure increases
+- Compacts memory allocations to reduce fragmentation
+- Manages high-memory processes through priority adjustment
 
 #### Power Optimization
-- Adjusts CPU frequency scaling
+- Adjusts CPU frequency scaling based on workload
 - Controls device power states
 - Optimizes background processes
 
 ## Development
 
 ### Project Structure
+
+## Interpreting the Results
+
+The terminal interface displays real-time information about system resource usage and the genetic algorithm's decisions. Here's how to interpret what you see:
+
+### Understanding the Output

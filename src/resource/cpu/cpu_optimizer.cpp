@@ -32,8 +32,7 @@ void CPUOptimizer::optimize(double threshold) {
     
     // Close the file
     stat_file.close();
-    
-    // Calculate total and idle times
+
     long user = cpu_times[0];
     long nice = cpu_times[1];
     long system = cpu_times[2];
@@ -275,8 +274,6 @@ void CPUOptimizer::optimize(double threshold) {
         }
     }
     #else
-    // Mock implementation for non-Linux platforms
-    // Simply log the threshold
     std::cout << "CPU optimization threshold set to " << threshold << "%" << std::endl;
     #endif
 }
