@@ -1,0 +1,3888 @@
+Fri May 16 06:08:29 2025
+=== Generation 1 (Load Level: 0) ===
+Resource Usage:
+  CPU: 30.000000%
+  Memory: 35.648310%
+  Power: 7.490000W
+Optimized Thresholds:
+  CPU: 37.411489%
+  Memory: 77.971716%
+  Power: 8.129604W
+Fitness: 0.708427
+
+Fri May 16 06:08:29 2025
+=== Generation 2 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.645425%
+  Power: 7.310000W
+Optimized Thresholds:
+  CPU: 35.962558%
+  Memory: 40.128239%
+  Power: 3.113510W
+Fitness: 0.584070
+
+Fri May 16 06:08:30 2025
+=== Generation 3 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.690866%
+  Power: 7.790000W
+Optimized Thresholds:
+  CPU: 55.263010%
+  Memory: 55.537163%
+  Power: 5.972757W
+Fitness: 0.646395
+
+Fri May 16 06:08:31 2025
+=== Generation 4 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.679944%
+  Power: 7.580000W
+Optimized Thresholds:
+  CPU: 55.181651%
+  Memory: 40.103130%
+  Power: 9.477573W
+Fitness: 0.654506
+
+Fri May 16 06:08:32 2025
+=== Generation 5 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.675513%
+  Power: 6.470000W
+Optimized Thresholds:
+  CPU: 55.263010%
+  Memory: 55.537163%
+  Power: 5.972757W
+Fitness: 0.640068
+
+Fri May 16 06:08:33 2025
+=== Generation 6 (Load Level: 0) ===
+Resource Usage:
+  CPU: 10.000000%
+  Memory: 35.677574%
+  Power: 6.860000W
+Optimized Thresholds:
+  CPU: 42.022965%
+  Memory: 63.745696%
+  Power: 5.830304W
+Fitness: 0.590884
+
+Fri May 16 06:08:33 2025
+=== Generation 7 (Load Level: 0) ===
+Resource Usage:
+  CPU: 12.820513%
+  Memory: 35.724560%
+  Power: 7.700000W
+Optimized Thresholds:
+  CPU: 57.636667%
+  Memory: 42.224802%
+  Power: 5.792603W
+Fitness: 0.651514
+
+Fri May 16 06:08:34 2025
+=== Generation 8 (Load Level: 0) ===
+Resource Usage:
+  CPU: 17.500000%
+  Memory: 35.718378%
+  Power: 6.890000W
+Optimized Thresholds:
+  CPU: 57.636667%
+  Memory: 42.224802%
+  Power: 5.792603W
+Fitness: 0.758858
+
+Fri May 16 06:08:35 2025
+=== Generation 9 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.694472%
+  Power: 6.200000W
+Optimized Thresholds:
+  CPU: 53.931043%
+  Memory: 40.217942%
+  Power: 4.641355W
+Fitness: 0.669068
+
+Fri May 16 06:08:36 2025
+=== Generation 10 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.696533%
+  Power: 7.160000W
+Optimized Thresholds:
+  CPU: 30.452240%
+  Memory: 45.664890%
+  Power: 8.701272W
+Fitness: 0.806303
+
+Fri May 16 06:08:37 2025
+=== Generation 11 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.439024%
+  Memory: 35.594729%
+  Power: 5.330000W
+Optimized Thresholds:
+  CPU: 30.452240%
+  Memory: 45.664890%
+  Power: 8.701272W
+Fitness: 0.724590
+
+Fri May 16 06:08:37 2025
+=== Generation 12 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.698594%
+  Power: 7.010000W
+Optimized Thresholds:
+  CPU: 32.300159%
+  Memory: 40.212034%
+  Power: 9.380214W
+Fitness: 0.794287
+
+Fri May 16 06:08:38 2025
+=== Generation 13 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.700655%
+  Power: 7.460000W
+Optimized Thresholds:
+  CPU: 57.636667%
+  Memory: 42.224802%
+  Power: 5.792603W
+Fitness: 0.712228
+
+Fri May 16 06:08:39 2025
+=== Generation 14 (Load Level: 0) ===
+Resource Usage:
+  CPU: 5.000000%
+  Memory: 35.747951%
+  Power: 6.860000W
+Optimized Thresholds:
+  CPU: 57.636667%
+  Memory: 42.224802%
+  Power: 5.792603W
+Fitness: 0.667344
+
+Fri May 16 06:08:40 2025
+=== Generation 15 (Load Level: 0) ===
+Resource Usage:
+  CPU: 17.948718%
+  Memory: 35.750011%
+  Power: 7.010000W
+Optimized Thresholds:
+  CPU: 32.300159%
+  Memory: 40.212034%
+  Power: 9.380214W
+Fitness: 0.797712
+
+Fri May 16 06:08:41 2025
+=== Generation 16 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.750011%
+  Power: 5.870000W
+Optimized Thresholds:
+  CPU: 57.636667%
+  Memory: 42.224802%
+  Power: 5.792603W
+Fitness: 0.665250
+
+Fri May 16 06:08:41 2025
+=== Generation 17 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.752072%
+  Power: 5.660000W
+Optimized Thresholds:
+  CPU: 32.300159%
+  Memory: 40.212034%
+  Power: 9.380214W
+Fitness: 0.810140
+
+Fri May 16 06:08:42 2025
+=== Generation 18 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.754133%
+  Power: 7.070000W
+Optimized Thresholds:
+  CPU: 48.218961%
+  Memory: 40.665914%
+  Power: 5.949796W
+Fitness: 0.689646
+
+Fri May 16 06:08:43 2025
+=== Generation 19 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.756091%
+  Power: 7.790000W
+Optimized Thresholds:
+  CPU: 32.300159%
+  Memory: 40.212034%
+  Power: 9.380214W
+Fitness: 0.809074
+
+Fri May 16 06:08:44 2025
+=== Generation 20 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.740738%
+  Power: 5.330000W
+Optimized Thresholds:
+  CPU: 48.218961%
+  Memory: 40.665914%
+  Power: 5.949796W
+Fitness: 0.703097
+
+Fri May 16 06:08:45 2025
+=== Generation 21 (Load Level: 0) ===
+Resource Usage:
+  CPU: 10.256410%
+  Memory: 35.734040%
+  Power: 5.870000W
+Optimized Thresholds:
+  CPU: 48.218961%
+  Memory: 40.665914%
+  Power: 5.949796W
+Fitness: 0.695247
+
+Fri May 16 06:08:45 2025
+=== Generation 22 (Load Level: 0) ===
+Resource Usage:
+  CPU: 15.000000%
+  Memory: 35.723118%
+  Power: 5.630000W
+Optimized Thresholds:
+  CPU: 48.218961%
+  Memory: 40.665914%
+  Power: 5.949796W
+Fitness: 0.791781
+
+Fri May 16 06:08:46 2025
+=== Generation 23 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.712195%
+  Power: 7.520000W
+Optimized Thresholds:
+  CPU: 48.218961%
+  Memory: 40.665914%
+  Power: 5.949796W
+Fitness: 0.705695
+
+Fri May 16 06:08:47 2025
+=== Generation 24 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.707765%
+  Power: 7.940000W
+Optimized Thresholds:
+  CPU: 48.218961%
+  Memory: 40.665914%
+  Power: 5.949796W
+Fitness: 0.794426
+
+Fri May 16 06:08:48 2025
+=== Generation 25 (Load Level: 0) ===
+Resource Usage:
+  CPU: 4.878049%
+  Memory: 35.709826%
+  Power: 5.450000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.737665
+
+Fri May 16 06:08:49 2025
+=== Generation 26 (Load Level: 0) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 35.768250%
+  Power: 5.390000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.804116
+
+Fri May 16 06:08:49 2025
+=== Generation 27 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.500000%
+  Memory: 35.713947%
+  Power: 7.730000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.737554
+
+Fri May 16 06:08:50 2025
+=== Generation 28 (Load Level: 0) ===
+Resource Usage:
+  CPU: 15.000000%
+  Memory: 35.702819%
+  Power: 6.680000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.739260
+
+Fri May 16 06:08:51 2025
+=== Generation 29 (Load Level: 0) ===
+Resource Usage:
+  CPU: 12.500000%
+  Memory: 35.704880%
+  Power: 6.860000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.834233
+
+Fri May 16 06:08:52 2025
+=== Generation 30 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.500000%
+  Memory: 35.706940%
+  Power: 7.880000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.736988
+
+Fri May 16 06:08:53 2025
+=== Generation 31 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.706940%
+  Power: 5.150000W
+Optimized Thresholds:
+  CPU: 34.688436%
+  Memory: 40.510339%
+  Power: 4.599187W
+Fitness: 0.827115
+
+Fri May 16 06:08:53 2025
+=== Generation 32 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.747951%
+  Power: 7.520000W
+Optimized Thresholds:
+  CPU: 34.688436%
+  Memory: 40.510339%
+  Power: 4.599187W
+Fitness: 0.736182
+
+Fri May 16 06:08:54 2025
+=== Generation 33 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.713123%
+  Power: 6.080000W
+Optimized Thresholds:
+  CPU: 34.688436%
+  Memory: 40.510339%
+  Power: 4.599187W
+Fitness: 0.941093
+
+Fri May 16 06:08:55 2025
+=== Generation 34 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.714978%
+  Power: 6.380000W
+Optimized Thresholds:
+  CPU: 34.688436%
+  Memory: 40.510339%
+  Power: 4.599187W
+Fitness: 0.734984
+
+Fri May 16 06:08:56 2025
+=== Generation 35 (Load Level: 0) ===
+Resource Usage:
+  CPU: 17.500000%
+  Memory: 35.714978%
+  Power: 5.390000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.748232
+
+Fri May 16 06:08:57 2025
+=== Generation 36 (Load Level: 0) ===
+Resource Usage:
+  CPU: 7.500000%
+  Memory: 35.717038%
+  Power: 5.720000W
+Optimized Thresholds:
+  CPU: 30.504669%
+  Memory: 44.462524%
+  Power: 8.509165W
+Fitness: 0.929816
+
+Fri May 16 06:08:57 2025
+=== Generation 37 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.712505%
+  Power: 7.460000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.724175
+
+Fri May 16 06:08:58 2025
+=== Generation 38 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.714565%
+  Power: 5.420000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.943292
+
+Fri May 16 06:08:59 2025
+=== Generation 39 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.439024%
+  Memory: 35.718687%
+  Power: 6.020000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.743238
+
+Fri May 16 06:09:00 2025
+=== Generation 40 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.718687%
+  Power: 6.290000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.917620
+
+Fri May 16 06:09:01 2025
+=== Generation 41 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.707559%
+  Power: 7.610000W
+Optimized Thresholds:
+  CPU: 30.509146%
+  Memory: 44.906249%
+  Power: 4.160340W
+Fitness: 0.737618
+
+Fri May 16 06:09:01 2025
+=== Generation 42 (Load Level: 0) ===
+Resource Usage:
+  CPU: 17.500000%
+  Memory: 35.047378%
+  Power: 7.280000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.736234
+
+Fri May 16 06:09:02 2025
+=== Generation 43 (Load Level: 0) ===
+Resource Usage:
+  CPU: 7.317073%
+  Memory: 34.956496%
+  Power: 7.640000W
+Optimized Thresholds:
+  CPU: 30.504669%
+  Memory: 44.462524%
+  Power: 8.509165W
+Fitness: 0.920174
+
+Fri May 16 06:09:03 2025
+=== Generation 44 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.500000%
+  Memory: 34.958557%
+  Power: 5.090000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.724701
+
+Fri May 16 06:09:04 2025
+=== Generation 45 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.965049%
+  Power: 6.620000W
+Optimized Thresholds:
+  CPU: 32.316177%
+  Memory: 45.303204%
+  Power: 8.350527W
+Fitness: 0.921772
+
+Fri May 16 06:09:05 2025
+=== Generation 46 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.967109%
+  Power: 5.960000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.729591
+
+Fri May 16 06:09:05 2025
+=== Generation 47 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.956187%
+  Power: 7.280000W
+Optimized Thresholds:
+  CPU: 32.316177%
+  Memory: 45.303204%
+  Power: 8.350527W
+Fitness: 0.903137
+
+Fri May 16 06:09:06 2025
+=== Generation 48 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.958248%
+  Power: 6.170000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.633276
+
+Fri May 16 06:09:07 2025
+=== Generation 49 (Load Level: 0) ===
+Resource Usage:
+  CPU: 22.500000%
+  Memory: 34.960103%
+  Power: 5.780000W
+Optimized Thresholds:
+  CPU: 32.316177%
+  Memory: 45.303204%
+  Power: 8.350527W
+Fitness: 0.732557
+
+Fri May 16 06:09:08 2025
+=== Generation 50 (Load Level: 0) ===
+Resource Usage:
+  CPU: 7.317073%
+  Memory: 34.917650%
+  Power: 7.820000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.808072
+
+Fri May 16 06:09:09 2025
+=== Generation 51 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.977723%
+  Power: 7.850000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.735030
+
+Fri May 16 06:09:09 2025
+=== Generation 52 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.936403%
+  Power: 6.020000W
+Optimized Thresholds:
+  CPU: 32.316177%
+  Memory: 45.303204%
+  Power: 8.350527W
+Fitness: 0.909058
+
+Fri May 16 06:09:10 2025
+=== Generation 53 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.901576%
+  Power: 7.010000W
+Optimized Thresholds:
+  CPU: 53.332751%
+  Memory: 41.230582%
+  Power: 6.480885W
+Fitness: 0.659102
+
+Fri May 16 06:09:11 2025
+=== Generation 54 (Load Level: 0) ===
+Resource Usage:
+  CPU: 28.205128%
+  Memory: 34.871076%
+  Power: 7.910000W
+Optimized Thresholds:
+  CPU: 32.316177%
+  Memory: 45.303204%
+  Power: 8.350527W
+Fitness: 0.779301
+
+Fri May 16 06:09:12 2025
+=== Generation 55 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.909819%
+  Power: 5.510000W
+Optimized Thresholds:
+  CPU: 32.316177%
+  Memory: 45.303204%
+  Power: 8.350527W
+Fitness: 0.735616
+
+Fri May 16 06:09:13 2025
+=== Generation 56 (Load Level: 0) ===
+Resource Usage:
+  CPU: 53.846154%
+  Memory: 35.138260%
+  Power: 6.560000W
+Optimized Thresholds:
+  CPU: 32.316177%
+  Memory: 45.303204%
+  Power: 8.350527W
+Fitness: 0.899307
+
+Fri May 16 06:09:14 2025
+=== Generation 57 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 35.181949%
+  Power: 5.030000W
+Optimized Thresholds:
+  CPU: 32.316177%
+  Memory: 45.303204%
+  Power: 8.350527W
+Fitness: 0.918557
+
+Fri May 16 06:09:14 2025
+=== Generation 58 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.050263%
+  Power: 7.580000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.926445
+
+Fri May 16 06:09:15 2025
+=== Generation 59 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.279219%
+  Power: 6.950000W
+Optimized Thresholds:
+  CPU: 32.316177%
+  Memory: 45.303204%
+  Power: 8.350527W
+Fitness: 0.943667
+
+Fri May 16 06:09:16 2025
+=== Generation 60 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.231408%
+  Power: 6.320000W
+Optimized Thresholds:
+  CPU: 42.016714%
+  Memory: 43.979532%
+  Power: 7.158353W
+Fitness: 0.688656
+
+Fri May 16 06:09:17 2025
+=== Generation 61 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.226978%
+  Power: 6.200000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.803787
+
+Fri May 16 06:09:18 2025
+=== Generation 62 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.500000%
+  Memory: 35.255005%
+  Power: 5.930000W
+Optimized Thresholds:
+  CPU: 42.016714%
+  Memory: 43.979532%
+  Power: 7.158353W
+Fitness: 0.687661
+
+Fri May 16 06:09:18 2025
+=== Generation 63 (Load Level: 0) ===
+Resource Usage:
+  CPU: 31.707317%
+  Memory: 35.315180%
+  Power: 7.910000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.745784
+
+Fri May 16 06:09:19 2025
+=== Generation 64 (Load Level: 0) ===
+Resource Usage:
+  CPU: 9.756098%
+  Memory: 35.315180%
+  Power: 7.430000W
+Optimized Thresholds:
+  CPU: 35.654701%
+  Memory: 44.415691%
+  Power: 7.246487W
+Fitness: 0.930865
+
+Fri May 16 06:09:20 2025
+=== Generation 65 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.317241%
+  Power: 5.270000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.746785
+
+Fri May 16 06:09:21 2025
+=== Generation 66 (Load Level: 0) ===
+Resource Usage:
+  CPU: 31.707317%
+  Memory: 35.306319%
+  Power: 7.010000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.937361
+
+Fri May 16 06:09:22 2025
+=== Generation 67 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.308380%
+  Power: 7.910000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.752013
+
+Fri May 16 06:09:22 2025
+=== Generation 68 (Load Level: 0) ===
+Resource Usage:
+  CPU: 31.707317%
+  Memory: 35.316932%
+  Power: 7.580000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.932603
+
+Fri May 16 06:09:23 2025
+=== Generation 69 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.316726%
+  Power: 5.180000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.748622
+
+Fri May 16 06:09:24 2025
+=== Generation 70 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.324969%
+  Power: 5.570000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.736412
+
+Fri May 16 06:09:25 2025
+=== Generation 71 (Load Level: 0) ===
+Resource Usage:
+  CPU: 4.878049%
+  Memory: 35.327030%
+  Power: 5.840000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.929043
+
+Fri May 16 06:09:26 2025
+=== Generation 72 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.298591%
+  Power: 5.960000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.747798
+
+Fri May 16 06:09:26 2025
+=== Generation 73 (Load Level: 0) ===
+Resource Usage:
+  CPU: 29.268293%
+  Memory: 35.294160%
+  Power: 5.090000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.915113
+
+Fri May 16 06:09:27 2025
+=== Generation 74 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 35.294160%
+  Power: 7.100000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.747641
+
+Fri May 16 06:09:28 2025
+=== Generation 75 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 35.302712%
+  Power: 5.240000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.912747
+
+Fri May 16 06:09:29 2025
+=== Generation 76 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.989778%
+  Power: 6.200000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.748706
+
+Fri May 16 06:09:30 2025
+=== Generation 77 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.977620%
+  Power: 7.880000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.734622
+
+Fri May 16 06:09:30 2025
+=== Generation 78 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.977620%
+  Power: 5.540000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.939455
+
+Fri May 16 06:09:31 2025
+=== Generation 79 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.979680%
+  Power: 6.380000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.749749
+
+Fri May 16 06:09:32 2025
+=== Generation 80 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.988233%
+  Power: 5.630000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.935489
+
+Fri May 16 06:09:33 2025
+=== Generation 81 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.996785%
+  Power: 7.370000W
+Optimized Thresholds:
+  CPU: 34.337903%
+  Memory: 40.485398%
+  Power: 7.746352W
+Fitness: 0.754710
+
+Fri May 16 06:09:34 2025
+=== Generation 82 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.987924%
+  Power: 6.920000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.919288
+
+Fri May 16 06:09:34 2025
+=== Generation 83 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.564103%
+  Memory: 34.979165%
+  Power: 6.230000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.767182
+
+Fri May 16 06:09:35 2025
+=== Generation 84 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.970304%
+  Power: 7.790000W
+Optimized Thresholds:
+  CPU: 32.871630%
+  Memory: 40.090621%
+  Power: 5.283512W
+Fitness: 0.794126
+
+Fri May 16 06:09:36 2025
+=== Generation 85 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.965873%
+  Power: 6.020000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.802619
+
+Fri May 16 06:09:37 2025
+=== Generation 86 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.937537%
+  Power: 5.720000W
+Optimized Thresholds:
+  CPU: 32.871630%
+  Memory: 40.090621%
+  Power: 5.283512W
+Fitness: 0.760654
+
+Fri May 16 06:09:38 2025
+=== Generation 87 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.939598%
+  Power: 7.610000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.935894
+
+Fri May 16 06:09:38 2025
+=== Generation 88 (Load Level: 0) ===
+Resource Usage:
+  CPU: 15.384615%
+  Memory: 34.972055%
+  Power: 6.290000W
+Optimized Thresholds:
+  CPU: 34.337903%
+  Memory: 40.485398%
+  Power: 7.746352W
+Fitness: 0.764126
+
+Fri May 16 06:09:39 2025
+=== Generation 89 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.966697%
+  Power: 5.810000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.931202
+
+Fri May 16 06:09:40 2025
+=== Generation 90 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.955569%
+  Power: 6.770000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.741562
+
+Fri May 16 06:09:41 2025
+=== Generation 91 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.957630%
+  Power: 5.960000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.805054
+
+Fri May 16 06:09:42 2025
+=== Generation 92 (Load Level: 0) ===
+Resource Usage:
+  CPU: 4.878049%
+  Memory: 34.966182%
+  Power: 6.110000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.773281
+
+Fri May 16 06:09:42 2025
+=== Generation 93 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 34.992148%
+  Power: 7.250000W
+Optimized Thresholds:
+  CPU: 30.585541%
+  Memory: 45.305563%
+  Power: 6.694982W
+Fitness: 0.726034
+
+Fri May 16 06:09:43 2025
+=== Generation 94 (Load Level: 0) ===
+Resource Usage:
+  CPU: 80.487805%
+  Memory: 34.994209%
+  Power: 7.220000W
+Optimized Thresholds:
+  CPU: 87.771172%
+  Memory: 41.527046%
+  Power: 5.962221W
+Fitness: 0.918309
+
+Fri May 16 06:09:44 2025
+=== Generation 95 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.439024%
+  Memory: 32.962662%
+  Power: 6.740000W
+Optimized Thresholds:
+  CPU: 40.503873%
+  Memory: 40.597510%
+  Power: 9.319811W
+Fitness: 0.906958
+
+Fri May 16 06:09:45 2025
+=== Generation 96 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 32.856427%
+  Power: 5.870000W
+Optimized Thresholds:
+  CPU: 41.031204%
+  Memory: 46.728423%
+  Power: 5.000240W
+Fitness: 0.695136
+
+Fri May 16 06:09:46 2025
+=== Generation 97 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.500000%
+  Memory: 32.833449%
+  Power: 6.050000W
+Optimized Thresholds:
+  CPU: 40.503873%
+  Memory: 40.597510%
+  Power: 9.319811W
+Fitness: 0.698698
+
+Fri May 16 06:09:46 2025
+=== Generation 98 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 32.833243%
+  Power: 5.540000W
+Optimized Thresholds:
+  CPU: 31.256506%
+  Memory: 67.374664%
+  Power: 6.421625W
+Fitness: 0.742658
+
+Fri May 16 06:09:47 2025
+=== Generation 99 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.822012%
+  Power: 6.290000W
+Optimized Thresholds:
+  CPU: 39.584424%
+  Memory: 46.561064%
+  Power: 6.199319W
+Fitness: 0.623149
+
+Fri May 16 06:09:48 2025
+=== Generation 100 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.824073%
+  Power: 5.840000W
+Optimized Thresholds:
+  CPU: 33.427950%
+  Memory: 48.807366%
+  Power: 5.695827W
+Fitness: 0.647086
+
+Fri May 16 06:09:49 2025
+=== Generation 101 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 32.815108%
+  Power: 7.280000W
+Optimized Thresholds:
+  CPU: 33.427950%
+  Memory: 48.807366%
+  Power: 5.695827W
+Fitness: 0.721544
+
+Fri May 16 06:09:50 2025
+=== Generation 102 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.826134%
+  Power: 6.290000W
+Optimized Thresholds:
+  CPU: 33.427950%
+  Memory: 48.807366%
+  Power: 5.695827W
+Fitness: 0.646691
+
+Fri May 16 06:09:50 2025
+=== Generation 103 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 32.802228%
+  Power: 5.390000W
+Optimized Thresholds:
+  CPU: 33.427950%
+  Memory: 48.807366%
+  Power: 5.695827W
+Fitness: 0.723641
+
+Fri May 16 06:09:51 2025
+=== Generation 104 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.733603%
+  Power: 5.180000W
+Optimized Thresholds:
+  CPU: 33.427950%
+  Memory: 48.807366%
+  Power: 5.695827W
+Fitness: 0.641447
+
+Fri May 16 06:09:52 2025
+=== Generation 105 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 32.718250%
+  Power: 5.120000W
+Optimized Thresholds:
+  CPU: 51.543724%
+  Memory: 40.122509%
+  Power: 4.938172W
+Fitness: 0.766954
+
+Fri May 16 06:09:53 2025
+=== Generation 106 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.733191%
+  Power: 5.840000W
+Optimized Thresholds:
+  CPU: 33.427950%
+  Memory: 48.807366%
+  Power: 5.695827W
+Fitness: 0.618118
+
+Fri May 16 06:09:54 2025
+=== Generation 107 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.804598%
+  Power: 7.070000W
+Optimized Thresholds:
+  CPU: 48.076127%
+  Memory: 42.417494%
+  Power: 6.062833W
+Fitness: 0.699804
+
+Fri May 16 06:09:54 2025
+=== Generation 108 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 32.772449%
+  Power: 5.510000W
+Optimized Thresholds:
+  CPU: 38.856619%
+  Memory: 41.818718%
+  Power: 8.107792W
+Fitness: 0.813449
+
+Fri May 16 06:09:55 2025
+=== Generation 109 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.765340%
+  Power: 5.720000W
+Optimized Thresholds:
+  CPU: 38.856619%
+  Memory: 41.818718%
+  Power: 8.107792W
+Fitness: 0.694804
+
+Fri May 16 06:09:56 2025
+=== Generation 110 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 32.781208%
+  Power: 7.100000W
+Optimized Thresholds:
+  CPU: 38.856619%
+  Memory: 41.818718%
+  Power: 8.107792W
+Fitness: 0.806461
+
+Fri May 16 06:09:57 2025
+=== Generation 111 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.439024%
+  Memory: 32.739683%
+  Power: 7.700000W
+Optimized Thresholds:
+  CPU: 38.856619%
+  Memory: 41.818718%
+  Power: 8.107792W
+Fitness: 0.724951
+
+Fri May 16 06:09:58 2025
+=== Generation 112 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 32.739683%
+  Power: 7.160000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.828722
+
+Fri May 16 06:09:58 2025
+=== Generation 113 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.761218%
+  Power: 6.320000W
+Optimized Thresholds:
+  CPU: 38.856619%
+  Memory: 41.818718%
+  Power: 8.107792W
+Fitness: 0.720169
+
+Fri May 16 06:09:59 2025
+=== Generation 114 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.750296%
+  Power: 5.150000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.732405
+
+Fri May 16 06:10:00 2025
+=== Generation 115 (Load Level: 0) ===
+Resource Usage:
+  CPU: 27.500000%
+  Memory: 32.745865%
+  Power: 6.620000W
+Optimized Thresholds:
+  CPU: 38.856619%
+  Memory: 41.818718%
+  Power: 8.107792W
+Fitness: 0.807954
+
+Fri May 16 06:10:01 2025
+=== Generation 116 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.500000%
+  Memory: 32.715468%
+  Power: 7.070000W
+Optimized Thresholds:
+  CPU: 38.856619%
+  Memory: 41.818718%
+  Power: 8.107792W
+Fitness: 0.715684
+
+Fri May 16 06:10:02 2025
+=== Generation 117 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 32.616343%
+  Power: 6.260000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.938523
+
+Fri May 16 06:10:02 2025
+=== Generation 118 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.439024%
+  Memory: 32.687750%
+  Power: 7.910000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.717363
+
+Fri May 16 06:10:03 2025
+=== Generation 119 (Load Level: 0) ===
+Resource Usage:
+  CPU: 28.205128%
+  Memory: 32.724123%
+  Power: 6.650000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.928826
+
+Fri May 16 06:10:04 2025
+=== Generation 120 (Load Level: 2) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 32.695787%
+  Power: 6.440000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.719552
+
+Fri May 16 06:10:05 2025
+=== Generation 121 (Load Level: 2) ===
+Resource Usage:
+  CPU: 31.707317%
+  Memory: 32.879612%
+  Power: 5.660000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.952841
+
+Fri May 16 06:10:06 2025
+=== Generation 122 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.560924%
+  Power: 7.970000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.826754
+
+Fri May 16 06:10:07 2025
+=== Generation 123 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.541037%
+  Power: 6.380000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.804182
+
+Fri May 16 06:10:07 2025
+=== Generation 124 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.534236%
+  Power: 6.200000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.822110
+
+Fri May 16 06:10:08 2025
+=== Generation 125 (Load Level: 2) ===
+Resource Usage:
+  CPU: 36.585366%
+  Memory: 34.507755%
+  Power: 5.330000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.824558
+
+Fri May 16 06:10:09 2025
+=== Generation 126 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.585653%
+  Power: 5.150000W
+Optimized Thresholds:
+  CPU: 35.391222%
+  Memory: 43.650819%
+  Power: 5.069924W
+Fitness: 0.829238
+
+Fri May 16 06:10:10 2025
+=== Generation 127 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.546395%
+  Power: 6.830000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.831307
+
+Fri May 16 06:10:11 2025
+=== Generation 128 (Load Level: 2) ===
+Resource Usage:
+  CPU: 27.500000%
+  Memory: 34.520120%
+  Power: 7.340000W
+Optimized Thresholds:
+  CPU: 35.391222%
+  Memory: 43.650819%
+  Power: 5.069924W
+Fitness: 0.828280
+
+Fri May 16 06:10:11 2025
+=== Generation 129 (Load Level: 2) ===
+Resource Usage:
+  CPU: 30.000000%
+  Memory: 34.526302%
+  Power: 5.600000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.821409
+
+Fri May 16 06:10:12 2025
+=== Generation 130 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.539285%
+  Power: 6.320000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.824288
+
+Fri May 16 06:10:13 2025
+=== Generation 131 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.545468%
+  Power: 5.660000W
+Optimized Thresholds:
+  CPU: 38.677546%
+  Memory: 42.313360%
+  Power: 7.436173W
+Fitness: 0.814045
+
+Fri May 16 06:10:14 2025
+=== Generation 132 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.590599%
+  Power: 5.240000W
+Optimized Thresholds:
+  CPU: 35.391222%
+  Memory: 43.650819%
+  Power: 5.069924W
+Fitness: 0.822593
+
+Fri May 16 06:10:15 2025
+=== Generation 133 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.583593%
+  Power: 7.460000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.812043
+
+Fri May 16 06:10:15 2025
+=== Generation 134 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.583593%
+  Power: 5.720000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.952201
+
+Fri May 16 06:10:16 2025
+=== Generation 135 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.557317%
+  Power: 6.860000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.823273
+
+Fri May 16 06:10:17 2025
+=== Generation 136 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.563500%
+  Power: 5.000000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.821543
+
+Fri May 16 06:10:18 2025
+=== Generation 137 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.524241%
+  Power: 6.560000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.787382
+
+Fri May 16 06:10:19 2025
+=== Generation 138 (Load Level: 2) ===
+Resource Usage:
+  CPU: 33.333333%
+  Memory: 34.400593%
+  Power: 7.370000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.928155
+
+Fri May 16 06:10:19 2025
+=== Generation 139 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.549692%
+  Power: 7.040000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.804901
+
+Fri May 16 06:10:20 2025
+=== Generation 140 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.542789%
+  Power: 7.190000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.824169
+
+Fri May 16 06:10:21 2025
+=== Generation 141 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.548971%
+  Power: 7.430000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.824731
+
+Fri May 16 06:10:22 2025
+=== Generation 142 (Load Level: 2) ===
+Resource Usage:
+  CPU: 32.500000%
+  Memory: 34.561645%
+  Power: 5.990000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.790216
+
+Fri May 16 06:10:23 2025
+=== Generation 143 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.568137%
+  Power: 6.800000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.806980
+
+Fri May 16 06:10:23 2025
+=== Generation 144 (Load Level: 2) ===
+Resource Usage:
+  CPU: 36.842105%
+  Memory: 34.606777%
+  Power: 7.970000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.797399
+
+Fri May 16 06:10:24 2025
+=== Generation 145 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.554535%
+  Power: 7.970000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.789111
+
+Fri May 16 06:10:25 2025
+=== Generation 146 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.547528%
+  Power: 6.770000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.801506
+
+Fri May 16 06:10:26 2025
+=== Generation 147 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.547528%
+  Power: 5.390000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.933457
+
+Fri May 16 06:10:27 2025
+=== Generation 148 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.534236%
+  Power: 7.700000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.791885
+
+Fri May 16 06:10:27 2025
+=== Generation 149 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.540419%
+  Power: 5.780000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.805260
+
+Fri May 16 06:10:28 2025
+=== Generation 150 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.527126%
+  Power: 7.520000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.819252
+
+Fri May 16 06:10:29 2025
+=== Generation 151 (Load Level: 2) ===
+Resource Usage:
+  CPU: 32.500000%
+  Memory: 34.286630%
+  Power: 7.700000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.904139
+
+Fri May 16 06:10:30 2025
+=== Generation 152 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.591733%
+  Power: 7.280000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.818405
+
+Fri May 16 06:10:31 2025
+=== Generation 153 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.558966%
+  Power: 6.080000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.814099
+
+Fri May 16 06:10:31 2025
+=== Generation 154 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.558451%
+  Power: 6.350000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.810725
+
+Fri May 16 06:10:32 2025
+=== Generation 155 (Load Level: 2) ===
+Resource Usage:
+  CPU: 32.500000%
+  Memory: 34.545159%
+  Power: 7.370000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.819989
+
+Fri May 16 06:10:33 2025
+=== Generation 156 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.558142%
+  Power: 7.610000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.816796
+
+Fri May 16 06:10:34 2025
+=== Generation 157 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.635731%
+  Power: 6.440000W
+Optimized Thresholds:
+  CPU: 32.985921%
+  Memory: 42.866847%
+  Power: 7.726399W
+Fitness: 0.831423
+
+Fri May 16 06:10:35 2025
+=== Generation 158 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.596370%
+  Power: 6.770000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.817621
+
+Fri May 16 06:10:35 2025
+=== Generation 159 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.589569%
+  Power: 6.080000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.815829
+
+Fri May 16 06:10:36 2025
+=== Generation 160 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.589363%
+  Power: 6.260000W
+Optimized Thresholds:
+  CPU: 32.985921%
+  Memory: 42.866847%
+  Power: 7.726399W
+Fitness: 0.952915
+
+Fri May 16 06:10:37 2025
+=== Generation 161 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.589054%
+  Power: 5.180000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.817553
+
+Fri May 16 06:10:38 2025
+=== Generation 162 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.569270%
+  Power: 5.390000W
+Optimized Thresholds:
+  CPU: 32.985921%
+  Memory: 42.866847%
+  Power: 7.726399W
+Fitness: 0.831184
+
+Fri May 16 06:10:39 2025
+=== Generation 163 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.594927%
+  Power: 5.630000W
+Optimized Thresholds:
+  CPU: 32.985921%
+  Memory: 42.866847%
+  Power: 7.726399W
+Fitness: 0.822097
+
+Fri May 16 06:10:39 2025
+=== Generation 164 (Load Level: 2) ===
+Resource Usage:
+  CPU: 36.585366%
+  Memory: 34.220169%
+  Power: 5.570000W
+Optimized Thresholds:
+  CPU: 32.985921%
+  Memory: 42.866847%
+  Power: 7.726399W
+Fitness: 0.942890
+
+Fri May 16 06:10:40 2025
+=== Generation 165 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.588126%
+  Power: 5.630000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.812584
+
+Fri May 16 06:10:41 2025
+=== Generation 166 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.587817%
+  Power: 6.170000W
+Optimized Thresholds:
+  CPU: 38.764417%
+  Memory: 41.449302%
+  Power: 5.851328W
+Fitness: 0.816363
+
+Fri May 16 06:10:42 2025
+=== Generation 167 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.587508%
+  Power: 6.200000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.943287
+
+Fri May 16 06:10:43 2025
+=== Generation 168 (Load Level: 2) ===
+Resource Usage:
+  CPU: 35.000000%
+  Memory: 34.567518%
+  Power: 5.150000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.909808
+
+Fri May 16 06:10:43 2025
+=== Generation 169 (Load Level: 2) ===
+Resource Usage:
+  CPU: 37.500000%
+  Memory: 34.625942%
+  Power: 5.810000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.923242
+
+Fri May 16 06:10:44 2025
+=== Generation 170 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.612650%
+  Power: 7.520000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.927989
+
+Fri May 16 06:10:45 2025
+=== Generation 171 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.573392%
+  Power: 5.600000W
+Optimized Thresholds:
+  CPU: 32.771031%
+  Memory: 42.179244%
+  Power: 5.340894W
+Fitness: 0.933474
+
+Fri May 16 06:10:46 2025
+=== Generation 172 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.586066%
+  Power: 5.660000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.934482
+
+Fri May 16 06:10:47 2025
+=== Generation 173 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.592557%
+  Power: 7.880000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.952633
+
+Fri May 16 06:10:47 2025
+=== Generation 174 (Load Level: 2) ===
+Resource Usage:
+  CPU: 32.500000%
+  Memory: 34.611517%
+  Power: 5.900000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.943584
+
+Fri May 16 06:10:48 2025
+=== Generation 175 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.572155%
+  Power: 7.760000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.949073
+
+Fri May 16 06:10:49 2025
+=== Generation 176 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.565354%
+  Power: 7.160000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.922999
+
+Fri May 16 06:10:50 2025
+=== Generation 177 (Load Level: 2) ===
+Resource Usage:
+  CPU: 31.707317%
+  Memory: 34.196985%
+  Power: 5.750000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.970749
+
+Fri May 16 06:10:51 2025
+=== Generation 178 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.551959%
+  Power: 5.660000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.935626
+
+Fri May 16 06:10:51 2025
+=== Generation 179 (Load Level: 2) ===
+Resource Usage:
+  CPU: 30.000000%
+  Memory: 34.564530%
+  Power: 6.200000W
+Optimized Thresholds:
+  CPU: 33.196511%
+  Memory: 40.034002%
+  Power: 7.131055W
+Fitness: 0.930479
+
+Fri May 16 06:10:52 2025
+=== Generation 180 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.531763%
+  Power: 7.940000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.810599
+
+Fri May 16 06:10:53 2025
+=== Generation 181 (Load Level: 2) ===
+Resource Usage:
+  CPU: 35.000000%
+  Memory: 34.544231%
+  Power: 7.940000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.940995
+
+Fri May 16 06:10:54 2025
+=== Generation 182 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.602655%
+  Power: 5.720000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.941229
+
+Fri May 16 06:10:55 2025
+=== Generation 183 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.582871%
+  Power: 5.270000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.941669
+
+Fri May 16 06:10:55 2025
+=== Generation 184 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.585241%
+  Power: 5.570000W
+Optimized Thresholds:
+  CPU: 33.196511%
+  Memory: 40.034002%
+  Power: 7.131055W
+Fitness: 0.934398
+
+Fri May 16 06:10:56 2025
+=== Generation 185 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.569270%
+  Power: 5.960000W
+Optimized Thresholds:
+  CPU: 32.187633%
+  Memory: 41.367819%
+  Power: 7.552011W
+Fitness: 0.926015
+
+Fri May 16 06:10:57 2025
+=== Generation 186 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.594824%
+  Power: 7.820000W
+Optimized Thresholds:
+  CPU: 57.500888%
+  Memory: 45.059242%
+  Power: 4.657274W
+Fitness: 0.821926
+
+Fri May 16 06:10:58 2025
+=== Generation 187 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.615329%
+  Power: 7.370000W
+Optimized Thresholds:
+  CPU: 37.378423%
+  Memory: 45.507636%
+  Power: 6.578874W
+Fitness: 0.726647
+
+Fri May 16 06:10:59 2025
+=== Generation 188 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.639441%
+  Power: 7.190000W
+Optimized Thresholds:
+  CPU: 56.472459%
+  Memory: 42.377666%
+  Power: 6.546981W
+Fitness: 0.745647
+
+Fri May 16 06:10:59 2025
+=== Generation 189 (Load Level: 2) ===
+Resource Usage:
+  CPU: 29.268293%
+  Memory: 34.605540%
+  Power: 6.500000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.929614
+
+Fri May 16 06:11:00 2025
+=== Generation 190 (Load Level: 2) ===
+Resource Usage:
+  CPU: 31.707317%
+  Memory: 34.224290%
+  Power: 6.800000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.932027
+
+Fri May 16 06:11:01 2025
+=== Generation 191 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.598740%
+  Power: 7.370000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.914751
+
+Fri May 16 06:11:02 2025
+=== Generation 192 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.598327%
+  Power: 7.790000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.918182
+
+Fri May 16 06:11:03 2025
+=== Generation 193 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.617493%
+  Power: 5.630000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.929779
+
+Fri May 16 06:11:03 2025
+=== Generation 194 (Load Level: 2) ===
+Resource Usage:
+  CPU: 36.585366%
+  Memory: 34.610383%
+  Power: 5.120000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.925594
+
+Fri May 16 06:11:04 2025
+=== Generation 195 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.616153%
+  Power: 6.830000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.932821
+
+Fri May 16 06:11:05 2025
+=== Generation 196 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.589672%
+  Power: 5.780000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.948081
+
+Fri May 16 06:11:06 2025
+=== Generation 197 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.608735%
+  Power: 6.320000W
+Optimized Thresholds:
+  CPU: 35.313618%
+  Memory: 42.701899%
+  Power: 4.772725W
+Fitness: 0.937727
+
+Fri May 16 06:11:07 2025
+=== Generation 198 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.616153%
+  Power: 5.060000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.918853
+
+Fri May 16 06:11:07 2025
+=== Generation 199 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.614608%
+  Power: 7.520000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.946416
+
+Fri May 16 06:11:08 2025
+=== Generation 200 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.613990%
+  Power: 6.260000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.932380
+
+Fri May 16 06:11:09 2025
+=== Generation 201 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.594206%
+  Power: 5.840000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.940232
+
+Fri May 16 06:11:10 2025
+=== Generation 202 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.599461%
+  Power: 7.160000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.927304
+
+Fri May 16 06:11:11 2025
+=== Generation 203 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.599461%
+  Power: 6.740000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.952020
+
+Fri May 16 06:11:11 2025
+=== Generation 204 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.586169%
+  Power: 6.080000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.922497
+
+Fri May 16 06:11:12 2025
+=== Generation 205 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.598843%
+  Power: 6.590000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.933788
+
+Fri May 16 06:11:13 2025
+=== Generation 206 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.592042%
+  Power: 5.090000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.934957
+
+Fri May 16 06:11:14 2025
+=== Generation 207 (Load Level: 2) ===
+Resource Usage:
+  CPU: 35.897436%
+  Memory: 34.591733%
+  Power: 5.990000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.933759
+
+Fri May 16 06:11:15 2025
+=== Generation 208 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.598224%
+  Power: 7.700000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.930185
+
+Fri May 16 06:11:15 2025
+=== Generation 209 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.597194%
+  Power: 7.010000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.934981
+
+Fri May 16 06:11:16 2025
+=== Generation 210 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.583077%
+  Power: 7.040000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.935085
+
+Fri May 16 06:11:17 2025
+=== Generation 211 (Load Level: 2) ===
+Resource Usage:
+  CPU: 27.500000%
+  Memory: 34.588848%
+  Power: 5.000000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.934948
+
+Fri May 16 06:11:18 2025
+=== Generation 212 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.588848%
+  Power: 7.640000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.960715
+
+Fri May 16 06:11:19 2025
+=== Generation 213 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.640162%
+  Power: 6.470000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.939816
+
+Fri May 16 06:11:19 2025
+=== Generation 214 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.619657%
+  Power: 5.090000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.945067
+
+Fri May 16 06:11:20 2025
+=== Generation 215 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.593382%
+  Power: 6.890000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.935428
+
+Fri May 16 06:11:21 2025
+=== Generation 216 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.592454%
+  Power: 6.590000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.949302
+
+Fri May 16 06:11:22 2025
+=== Generation 217 (Load Level: 2) ===
+Resource Usage:
+  CPU: 27.500000%
+  Memory: 34.592145%
+  Power: 7.580000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.930183
+
+Fri May 16 06:11:23 2025
+=== Generation 218 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.604819%
+  Power: 6.560000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.936074
+
+Fri May 16 06:11:23 2025
+=== Generation 219 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.655721%
+  Power: 7.250000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.941078
+
+Fri May 16 06:11:24 2025
+=== Generation 220 (Load Level: 2) ===
+Resource Usage:
+  CPU: 35.897436%
+  Memory: 34.635937%
+  Power: 6.710000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.949755
+
+Fri May 16 06:11:25 2025
+=== Generation 221 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.629446%
+  Power: 6.080000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.948746
+
+Fri May 16 06:11:26 2025
+=== Generation 222 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.622645%
+  Power: 5.420000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.927879
+
+Fri May 16 06:11:27 2025
+=== Generation 223 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.628106%
+  Power: 6.800000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.917701
+
+Fri May 16 06:11:27 2025
+=== Generation 224 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.633773%
+  Power: 5.840000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.934088
+
+Fri May 16 06:11:28 2025
+=== Generation 225 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.640265%
+  Power: 6.500000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.917284
+
+Fri May 16 06:11:29 2025
+=== Generation 226 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.620481%
+  Power: 6.680000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.923788
+
+Fri May 16 06:11:30 2025
+=== Generation 227 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.622130%
+  Power: 7.820000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.935543
+
+Fri May 16 06:11:31 2025
+=== Generation 228 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.628312%
+  Power: 7.970000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.938541
+
+Fri May 16 06:11:32 2025
+=== Generation 229 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.628312%
+  Power: 6.170000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.920922
+
+Fri May 16 06:11:32 2025
+=== Generation 230 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.633773%
+  Power: 5.840000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.917124
+
+Fri May 16 06:11:33 2025
+=== Generation 231 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.620275%
+  Power: 5.000000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.944225
+
+Fri May 16 06:11:34 2025
+=== Generation 232 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.645932%
+  Power: 6.410000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.938172
+
+Fri May 16 06:11:35 2025
+=== Generation 233 (Load Level: 2) ===
+Resource Usage:
+  CPU: 36.585366%
+  Memory: 34.632640%
+  Power: 6.770000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.943358
+
+Fri May 16 06:11:36 2025
+=== Generation 234 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.632640%
+  Power: 6.050000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.935719
+
+Fri May 16 06:11:36 2025
+=== Generation 235 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.632331%
+  Power: 6.170000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.938584
+
+Fri May 16 06:11:37 2025
+=== Generation 236 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.619039%
+  Power: 5.450000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.938782
+
+Fri May 16 06:11:38 2025
+=== Generation 237 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.605025%
+  Power: 5.120000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.942608
+
+Fri May 16 06:11:39 2025
+=== Generation 238 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.669735%
+  Power: 6.470000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.966855
+
+Fri May 16 06:11:40 2025
+=== Generation 239 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.643150%
+  Power: 7.550000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.932761
+
+Fri May 16 06:11:40 2025
+=== Generation 240 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.614402%
+  Power: 6.290000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.946246
+
+Fri May 16 06:11:41 2025
+=== Generation 241 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.646550%
+  Power: 7.310000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.915375
+
+Fri May 16 06:11:42 2025
+=== Generation 242 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.672517%
+  Power: 6.140000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.944283
+
+Fri May 16 06:11:43 2025
+=== Generation 243 (Load Level: 2) ===
+Resource Usage:
+  CPU: 30.000000%
+  Memory: 34.678184%
+  Power: 6.470000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.940568
+
+Fri May 16 06:11:44 2025
+=== Generation 244 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.721873%
+  Power: 7.010000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.941342
+
+Fri May 16 06:11:44 2025
+=== Generation 245 (Load Level: 2) ===
+Resource Usage:
+  CPU: 17.948718%
+  Memory: 34.702501%
+  Power: 7.760000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.789312
+
+Fri May 16 06:11:45 2025
+=== Generation 246 (Load Level: 2) ===
+Resource Usage:
+  CPU: 35.897436%
+  Memory: 34.689209%
+  Power: 6.290000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.939385
+
+Fri May 16 06:11:46 2025
+=== Generation 247 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.689209%
+  Power: 5.870000W
+Optimized Thresholds:
+  CPU: 32.158984%
+  Memory: 41.472066%
+  Power: 7.488956W
+Fitness: 0.947329
+
+Fri May 16 06:11:47 2025
+=== Generation 248 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.695392%
+  Power: 7.460000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.953260
+
+Fri May 16 06:11:48 2025
+=== Generation 249 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.695082%
+  Power: 6.230000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.951724
+
+Fri May 16 06:11:48 2025
+=== Generation 250 (Load Level: 2) ===
+Resource Usage:
+  CPU: 43.589744%
+  Memory: 34.759689%
+  Power: 5.780000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.945027
+
+Fri May 16 06:11:49 2025
+=== Generation 251 (Load Level: 2) ===
+Resource Usage:
+  CPU: 29.268293%
+  Memory: 34.765150%
+  Power: 6.830000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.945805
+
+Fri May 16 06:11:50 2025
+=== Generation 252 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.745366%
+  Power: 6.800000W
+Optimized Thresholds:
+  CPU: 34.358732%
+  Memory: 42.162737%
+  Power: 5.763639W
+Fitness: 0.937823
+
+Fri May 16 06:11:51 2025
+=== Generation 253 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.745057%
+  Power: 5.690000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.952372
+
+Fri May 16 06:11:52 2025
+=== Generation 254 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 34.770405%
+  Power: 7.430000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.921270
+
+Fri May 16 06:11:52 2025
+=== Generation 255 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.667880%
+  Power: 7.700000W
+Optimized Thresholds:
+  CPU: 33.499120%
+  Memory: 44.153539%
+  Power: 5.250802W
+Fitness: 0.939727
+
+Fri May 16 06:11:53 2025
+=== Generation 256 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.667571%
+  Power: 7.880000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.952814
+
+Fri May 16 06:11:54 2025
+=== Generation 257 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.694773%
+  Power: 7.310000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.935968
+
+Fri May 16 06:11:55 2025
+=== Generation 258 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.659740%
+  Power: 7.700000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.933591
+
+Fri May 16 06:11:56 2025
+=== Generation 259 (Load Level: 2) ===
+Resource Usage:
+  CPU: 36.585366%
+  Memory: 34.639750%
+  Power: 5.720000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.964164
+
+Fri May 16 06:11:56 2025
+=== Generation 260 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.665716%
+  Power: 5.420000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.959524
+
+Fri May 16 06:11:57 2025
+=== Generation 261 (Load Level: 2) ===
+Resource Usage:
+  CPU: 29.268293%
+  Memory: 34.674165%
+  Power: 5.150000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.947724
+
+Fri May 16 06:11:58 2025
+=== Generation 262 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.571949%
+  Power: 5.360000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.958917
+
+Fri May 16 06:11:59 2025
+=== Generation 263 (Load Level: 2) ===
+Resource Usage:
+  CPU: 30.769231%
+  Memory: 34.649539%
+  Power: 5.000000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.940426
+
+Fri May 16 06:12:00 2025
+=== Generation 264 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.662522%
+  Power: 5.780000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.950491
+
+Fri May 16 06:12:00 2025
+=== Generation 265 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.661388%
+  Power: 5.480000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.944073
+
+Fri May 16 06:12:01 2025
+=== Generation 266 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.660873%
+  Power: 7.340000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.932832
+
+Fri May 16 06:12:02 2025
+=== Generation 267 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.621615%
+  Power: 6.380000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.952727
+
+Fri May 16 06:12:03 2025
+=== Generation 268 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.634598%
+  Power: 6.410000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.947246
+
+Fri May 16 06:12:04 2025
+=== Generation 269 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.596370%
+  Power: 6.530000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.948097
+
+Fri May 16 06:12:04 2025
+=== Generation 270 (Load Level: 2) ===
+Resource Usage:
+  CPU: 27.500000%
+  Memory: 34.608322%
+  Power: 5.930000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.953438
+
+Fri May 16 06:12:05 2025
+=== Generation 271 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.614505%
+  Power: 6.710000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.931447
+
+Fri May 16 06:12:06 2025
+=== Generation 272 (Load Level: 2) ===
+Resource Usage:
+  CPU: 34.146341%
+  Memory: 34.425013%
+  Power: 5.360000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.965874
+
+Fri May 16 06:12:07 2025
+=== Generation 273 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.626251%
+  Power: 5.420000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.948297
+
+Fri May 16 06:12:08 2025
+=== Generation 274 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.632434%
+  Power: 5.360000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.952771
+
+Fri May 16 06:12:08 2025
+=== Generation 275 (Load Level: 2) ===
+Resource Usage:
+  CPU: 35.897436%
+  Memory: 34.664583%
+  Power: 5.360000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.947770
+
+Fri May 16 06:12:09 2025
+=== Generation 276 (Load Level: 2) ===
+Resource Usage:
+  CPU: 35.000000%
+  Memory: 34.631816%
+  Power: 5.300000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.951471
+
+Fri May 16 06:12:10 2025
+=== Generation 277 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.644799%
+  Power: 7.670000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.948523
+
+Fri May 16 06:12:11 2025
+=== Generation 278 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.657473%
+  Power: 6.650000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.938222
+
+Fri May 16 06:12:12 2025
+=== Generation 279 (Load Level: 2) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 34.675917%
+  Power: 5.600000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.935292
+
+Fri May 16 06:12:12 2025
+=== Generation 280 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.694773%
+  Power: 7.610000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.953291
+
+Fri May 16 06:12:13 2025
+=== Generation 281 (Load Level: 2) ===
+Resource Usage:
+  CPU: 28.205128%
+  Memory: 34.665819%
+  Power: 6.140000W
+Optimized Thresholds:
+  CPU: 34.263804%
+  Memory: 40.023070%
+  Power: 6.836364W
+Fitness: 0.944279
+
+Fri May 16 06:12:14 2025
+=== Generation 282 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.707447%
+  Power: 7.100000W
+Optimized Thresholds:
+  CPU: 30.117315%
+  Memory: 41.138600%
+  Power: 7.663224W
+Fitness: 0.950942
+
+Fri May 16 06:12:15 2025
+=== Generation 283 (Load Level: 2) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 34.633567%
+  Power: 6.680000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.942596
+
+Fri May 16 06:12:16 2025
+=== Generation 284 (Load Level: 2) ===
+Resource Usage:
+  CPU: 27.500000%
+  Memory: 34.658194%
+  Power: 5.180000W
+Optimized Thresholds:
+  CPU: 30.338323%
+  Memory: 41.090245%
+  Power: 7.002897W
+Fitness: 0.948861
+
+Fri May 16 06:12:16 2025
+=== Generation 285 (Load Level: 2) ===
+Resource Usage:
+  CPU: 27.500000%
+  Memory: 34.289824%
+  Power: 6.470000W
+Optimized Thresholds:
+  CPU: 31.345416%
+  Memory: 43.531976%
+  Power: 6.185092W
+Fitness: 0.958383
+
+Fri May 16 06:12:17 2025
+=== Generation 286 (Load Level: 2) ===
+Resource Usage:
+  CPU: 62.500000%
+  Memory: 34.864584%
+  Power: 5.150000W
+Optimized Thresholds:
+  CPU: 57.831957%
+  Memory: 47.720676%
+  Power: 7.516080W
+Fitness: 0.837752
+
+Fri May 16 06:12:18 2025
+=== Generation 287 (Load Level: 2) ===
+Resource Usage:
+  CPU: 51.219512%
+  Memory: 35.091376%
+  Power: 5.510000W
+Optimized Thresholds:
+  CPU: 51.669179%
+  Memory: 68.836418%
+  Power: 5.445364W
+Fitness: 0.773823
+
+Fri May 16 06:12:19 2025
+=== Generation 288 (Load Level: 2) ===
+Resource Usage:
+  CPU: 50.000000%
+  Memory: 35.175457%
+  Power: 6.350000W
+Optimized Thresholds:
+  CPU: 57.831957%
+  Memory: 47.720676%
+  Power: 7.516080W
+Fitness: 0.837633
+
+Fri May 16 06:12:20 2025
+=== Generation 289 (Load Level: 2) ===
+Resource Usage:
+  CPU: 37.500000%
+  Memory: 35.426773%
+  Power: 7.190000W
+Optimized Thresholds:
+  CPU: 57.831957%
+  Memory: 47.720676%
+  Power: 7.516080W
+Fitness: 0.653297
+
+Fri May 16 06:13:26 2025
+=== Generation 1 (Load Level: 0) ===
+Resource Usage:
+  CPU: 39.024390%
+  Memory: 38.193411%
+  Power: 7.490000W
+Optimized Thresholds:
+  CPU: 38.716081%
+  Memory: 45.559677%
+  Power: 8.260674W
+Fitness: 0.818437
+
+Fri May 16 06:13:27 2025
+=== Generation 2 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 38.193720%
+  Power: 7.310000W
+Optimized Thresholds:
+  CPU: 38.716081%
+  Memory: 45.559677%
+  Power: 8.260674W
+Fitness: 0.640211
+
+Fri May 16 06:13:28 2025
+=== Generation 3 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 38.232670%
+  Power: 7.790000W
+Optimized Thresholds:
+  CPU: 48.795420%
+  Memory: 42.032023%
+  Power: 7.197483W
+Fitness: 0.780004
+
+Fri May 16 06:13:29 2025
+=== Generation 4 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 38.197842%
+  Power: 7.580000W
+Optimized Thresholds:
+  CPU: 36.880665%
+  Memory: 48.343549%
+  Power: 7.530683W
+Fitness: 0.726577
+
+Fri May 16 06:13:30 2025
+=== Generation 5 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 38.225148%
+  Power: 6.470000W
+Optimized Thresholds:
+  CPU: 32.285713%
+  Memory: 56.390413%
+  Power: 6.875692W
+Fitness: 0.785954
+
+Fri May 16 06:13:30 2025
+=== Generation 6 (Load Level: 0) ===
+Resource Usage:
+  CPU: 2.500000%
+  Memory: 38.233700%
+  Power: 6.860000W
+Optimized Thresholds:
+  CPU: 40.015657%
+  Memory: 45.530026%
+  Power: 4.796507W
+Fitness: 0.720214
+
+Fri May 16 06:13:31 2025
+=== Generation 7 (Load Level: 0) ===
+Resource Usage:
+  CPU: 10.000000%
+  Memory: 38.233597%
+  Power: 7.700000W
+Optimized Thresholds:
+  CPU: 48.795420%
+  Memory: 42.032023%
+  Power: 7.197483W
+Fitness: 0.702967
+
+Fri May 16 06:13:32 2025
+=== Generation 8 (Load Level: 0) ===
+Resource Usage:
+  CPU: 17.500000%
+  Memory: 38.235452%
+  Power: 6.890000W
+Optimized Thresholds:
+  CPU: 40.015657%
+  Memory: 45.530026%
+  Power: 4.796507W
+Fitness: 0.801980
+
+Fri May 16 06:13:33 2025
+=== Generation 9 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 38.243283%
+  Power: 6.200000W
+Optimized Thresholds:
+  CPU: 40.015657%
+  Memory: 45.530026%
+  Power: 4.796507W
+Fitness: 0.712008
+
+Fri May 16 06:13:34 2025
+=== Generation 10 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 38.245344%
+  Power: 7.160000W
+Optimized Thresholds:
+  CPU: 34.410559%
+  Memory: 46.660634%
+  Power: 8.179704W
+Fitness: 0.804618
+
+Fri May 16 06:13:34 2025
+=== Generation 11 (Load Level: 0) ===
+Resource Usage:
+  CPU: 4.761905%
+  Memory: 37.464090%
+  Power: 5.330000W
+Optimized Thresholds:
+  CPU: 34.410559%
+  Memory: 46.660634%
+  Power: 8.179704W
+Fitness: 0.723014
+
+Fri May 16 06:13:35 2025
+=== Generation 12 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 37.561052%
+  Power: 7.010000W
+Optimized Thresholds:
+  CPU: 46.618729%
+  Memory: 45.593360%
+  Power: 5.850856W
+Fitness: 0.799497
+
+Fri May 16 06:13:36 2025
+=== Generation 13 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 37.469242%
+  Power: 7.460000W
+Optimized Thresholds:
+  CPU: 36.540775%
+  Memory: 44.498074%
+  Power: 6.774382W
+Fitness: 0.727411
+
+Fri May 16 06:13:37 2025
+=== Generation 14 (Load Level: 0) ===
+Resource Usage:
+  CPU: 12.820513%
+  Memory: 37.503761%
+  Power: 6.860000W
+Optimized Thresholds:
+  CPU: 36.540775%
+  Memory: 44.498074%
+  Power: 6.774382W
+Fitness: 0.723755
+
+Fri May 16 06:13:38 2025
+=== Generation 15 (Load Level: 0) ===
+Resource Usage:
+  CPU: 12.195122%
+  Memory: 37.488099%
+  Power: 7.010000W
+Optimized Thresholds:
+  CPU: 36.540775%
+  Memory: 44.498074%
+  Power: 6.774382W
+Fitness: 0.822486
+
+Fri May 16 06:13:38 2025
+=== Generation 16 (Load Level: 0) ===
+Resource Usage:
+  CPU: 0.000000%
+  Memory: 37.488099%
+  Power: 5.870000W
+Optimized Thresholds:
+  CPU: 45.947781%
+  Memory: 41.259748%
+  Power: 5.796510W
+Fitness: 0.716760
+
+Fri May 16 06:13:39 2025
+=== Generation 17 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 37.542504%
+  Power: 5.660000W
+Optimized Thresholds:
+  CPU: 44.975443%
+  Memory: 42.584651%
+  Power: 6.475534W
+Fitness: 0.805176
+
+Fri May 16 06:13:40 2025
+=== Generation 18 (Load Level: 0) ===
+Resource Usage:
+  CPU: 5.000000%
+  Memory: 37.524060%
+  Power: 7.070000W
+Optimized Thresholds:
+  CPU: 44.975443%
+  Memory: 42.584651%
+  Power: 6.475534W
+Fitness: 0.710227
+
+Fri May 16 06:13:41 2025
+=== Generation 19 (Load Level: 0) ===
+Resource Usage:
+  CPU: 25.641026%
+  Memory: 37.499433%
+  Power: 7.790000W
+Optimized Thresholds:
+  CPU: 44.975443%
+  Memory: 42.584651%
+  Power: 6.475534W
+Fitness: 0.806101
+
+Fri May 16 06:13:42 2025
+=== Generation 20 (Load Level: 1) ===
+Resource Usage:
+  CPU: 5.000000%
+  Memory: 38.045342%
+  Power: 5.330000W
+Optimized Thresholds:
+  CPU: 44.975443%
+  Memory: 42.584651%
+  Power: 6.475534W
+Fitness: 0.717867
+
+Fri May 16 06:13:42 2025
+=== Generation 21 (Load Level: 1) ===
+Resource Usage:
+  CPU: 40.000000%
+  Memory: 38.071102%
+  Power: 5.870000W
+Optimized Thresholds:
+  CPU: 32.040445%
+  Memory: 45.153024%
+  Power: 5.580168W
+Fitness: 0.921314
+
+Fri May 16 06:13:43 2025
+=== Generation 22 (Load Level: 1) ===
+Resource Usage:
+  CPU: 64.102564%
+  Memory: 38.294906%
+  Power: 5.630000W
+Optimized Thresholds:
+  CPU: 45.947781%
+  Memory: 41.259748%
+  Power: 5.796510W
+Fitness: 0.967402
+
+Fri May 16 06:13:44 2025
+=== Generation 23 (Load Level: 1) ===
+Resource Usage:
+  CPU: 70.000000%
+  Memory: 38.446170%
+  Power: 7.520000W
+Optimized Thresholds:
+  CPU: 45.947781%
+  Memory: 41.259748%
+  Power: 5.796510W
+Fitness: 0.966267
+
+Fri May 16 06:13:45 2025
+=== Generation 24 (Load Level: 1) ===
+Resource Usage:
+  CPU: 38.461538%
+  Memory: 38.424222%
+  Power: 7.940000W
+Optimized Thresholds:
+  CPU: 45.947781%
+  Memory: 41.259748%
+  Power: 5.796510W
+Fitness: 0.959512
+
+Fri May 16 06:13:46 2025
+=== Generation 25 (Load Level: 1) ===
+Resource Usage:
+  CPU: 30.000000%
+  Memory: 38.370950%
+  Power: 5.450000W
+Optimized Thresholds:
+  CPU: 41.278776%
+  Memory: 42.156822%
+  Power: 7.749904W
+Fitness: 0.825256
+
+Fri May 16 06:13:46 2025
+=== Generation 26 (Load Level: 1) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 38.427107%
+  Power: 5.390000W
+Optimized Thresholds:
+  CPU: 45.947781%
+  Memory: 41.259748%
+  Power: 5.796510W
+Fitness: 0.814093
+
+Fri May 16 06:13:47 2025
+=== Generation 27 (Load Level: 1) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 38.411033%
+  Power: 7.730000W
+Optimized Thresholds:
+  CPU: 41.388149%
+  Memory: 41.838425%
+  Power: 7.214186W
+Fitness: 0.838177
+
+Fri May 16 06:13:48 2025
+=== Generation 28 (Load Level: 1) ===
+Resource Usage:
+  CPU: 50.000000%
+  Memory: 38.414948%
+  Power: 6.680000W
+Optimized Thresholds:
+  CPU: 41.388149%
+  Memory: 41.838425%
+  Power: 7.214186W
+Fitness: 0.981375
+
+Fri May 16 06:13:49 2025
+=== Generation 29 (Load Level: 1) ===
+Resource Usage:
+  CPU: 26.829268%
+  Memory: 38.418349%
+  Power: 6.860000W
+Optimized Thresholds:
+  CPU: 41.388149%
+  Memory: 41.838425%
+  Power: 7.214186W
+Fitness: 0.844635
+
+Fri May 16 06:13:50 2025
+=== Generation 30 (Load Level: 1) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 38.469972%
+  Power: 7.880000W
+Optimized Thresholds:
+  CPU: 41.388149%
+  Memory: 41.838425%
+  Power: 7.214186W
+Fitness: 0.842936
+
+Fri May 16 06:13:50 2025
+=== Generation 31 (Load Level: 1) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 38.472960%
+  Power: 5.150000W
+Optimized Thresholds:
+  CPU: 32.109661%
+  Memory: 42.063663%
+  Power: 7.225470W
+Fitness: 0.930253
+
+Fri May 16 06:13:51 2025
+=== Generation 32 (Load Level: 1) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 38.469869%
+  Power: 7.520000W
+Optimized Thresholds:
+  CPU: 32.109661%
+  Memory: 42.063663%
+  Power: 7.225470W
+Fitness: 0.931441
+
+Fri May 16 06:13:52 2025
+=== Generation 33 (Load Level: 1) ===
+Resource Usage:
+  CPU: 20.000000%
+  Memory: 38.448024%
+  Power: 6.080000W
+Optimized Thresholds:
+  CPU: 32.109661%
+  Memory: 42.063663%
+  Power: 7.225470W
+Fitness: 0.824030
+
+Fri May 16 06:13:53 2025
+=== Generation 34 (Load Level: 1) ===
+Resource Usage:
+  CPU: 31.707317%
+  Memory: 38.457916%
+  Power: 6.380000W
+Optimized Thresholds:
+  CPU: 32.109661%
+  Memory: 42.063663%
+  Power: 7.225470W
+Fitness: 0.930029
+
+Fri May 16 06:13:54 2025
+=== Generation 35 (Load Level: 1) ===
+Resource Usage:
+  CPU: 25.000000%
+  Memory: 38.470178%
+  Power: 5.390000W
+Optimized Thresholds:
+  CPU: 32.109661%
+  Memory: 42.063663%
+  Power: 7.225470W
+Fitness: 0.946878
+
